@@ -9,4 +9,4 @@ En este directorio se encontrarán los archivos necesarios para crear dos máqui
 Para hacer el despliegue de las dos máquinas virtuales se debe:
 
 * Descargar los tres archivos en un directorio.
-* Ir a ese directorio y ejecutar el comando `vagrant up`
+* Ir al directorio donde se descargaron los archivos y ejecutar el comando `vagrant up`
